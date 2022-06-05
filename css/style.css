@@ -15,6 +15,7 @@ header{
 
 .navigation{
 	display: inline-block;
+	font-family: "BPG Mrgvlovani", sans-serif;
 }
 
 li{
@@ -39,20 +40,22 @@ article{
 	background-color: #3D58A6;
 	width: 60px;
 	height: 60px;
-	font-size: 40px;
+	font-size: 32px;
 	margin-bottom: 3px;
-	padding: 10px 10px 10px 10px;
+	padding: 16px 10px 10px 10px;
 	border-radius: 4px;
 }
 .may{
-	font-size: 22px;
+	font-size: 17px;
 	color: #3D58A6;
 	margin-bottom: 22px;
 	margin-left: 5px;
+	padding-top: 5px;
 }
 .article-h3{
 	font-size: 22px;
 	margin-bottom: 16px;
+	font-family: "BPG Mrgvlovani", sans-serif;
 }
 .article-img{
 	vertical-align: top;
@@ -98,6 +101,7 @@ footer{
 	font-family: verdana;
 	font-weight: bold;
 	margin-bottom: 30px;
+	font-family: 'Roboto', sans-serif;
 }
 .sub-block{
 	display: inline-block;
@@ -109,11 +113,12 @@ footer{
 }
 .sub-block-p{
 	padding: 20px;
-	font-family: verdana;
 	font-weight: bold;
 	color: #3D58A6;
 	margin-left: 20px;
 	padding-top: 40px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
 }
 .responsive{
 	display: inline-block;
@@ -153,6 +158,7 @@ footer{
 	padding-bottom: 0;
 	padding-top: 30px;
 	vertical-align: text-top;
+	font-family: "BPG Mrgvlovani", sans-serif;
 }
 
 .infocolor{
@@ -162,13 +168,22 @@ footer{
 	width: 350px;
 	margin-left: 100px;
 	padding: 30px;
+	font-family: "BPG Mrgvlovani", sans-serif;
 }
 .liclass{
 	line-height: 1.2;
+	font-family: "BPG Mrgvlovani", sans-serif;
+	font-size: 16px;
 }
 .gmap{
 	display: inline-block;
 	vertical-align: top;
 	width: 700px;
+}
+.datediv{
+	font-family: "BPG Mrgvlovani", sans-serif;
+}
+.text{
+	font-family: "BPG Mrgvlovani", sans-serif;
 }
 
